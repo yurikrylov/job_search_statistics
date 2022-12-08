@@ -3,8 +3,14 @@ import React  from "react";
 import { PieChart, Pie, Cell, Legend } from "recharts";
 import values from './data.json';
 
-const COLORS = ["#0088FE", "#00C49F", "#FFBB28", "#FF8042"];
+const COLORS = ["#FF6464", "#2A0944", "#A10035", "#3FA796"];
+const nameMap ={
+  notViewed:'Не просмотрено',
+  viewed:'Просмотрено',
+  rejected:'Отказ',
+  interview:'Приглашение'
 
+}
 const valuesObj = {};
 values.data.forEach((v => {
     if (valuesObj.hasOwnProperty(v.stat)) {
@@ -16,7 +22,7 @@ values.data.forEach((v => {
 
 const data = []
 Object.keys(valuesObj).forEach((v) => {
-    data.push({ name: v, value: valuesObj[v] })
+    data.push({ name: nameMap[v], value: valuesObj[v] })
 })
 const RADIAN = Math.PI / 180;
 const renderCustomizedLabel = ({
