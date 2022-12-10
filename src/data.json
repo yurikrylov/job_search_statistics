@@ -200,22 +200,44 @@
         },
         {
             "id": "",
-            "date": "2022-12-07",
+            "date": "2022-12-08",
             "stat": "notViewed",
             "arhived": false
         },
         {
             "id": "",
-            "date": "2022-12-07",
+            "date": "2022-12-08",
             "stat": "viewed",
             "arhived": false
         },
         {
             "id": "",
-            "date": "2022-12-07",
+            "date": "2022-12-09",
             "stat": "notViewed",
             "arhived": false
+        },
+                {
+            "id": "",
+            "date": "2022-12-09",
+            "stat": "notViewed",
+            "arhived": false
+        },        {
+            "id": "",
+            "date": "2022-12-08",
+            "stat": "notViewed",
+            "arhived": false
+        },        {
+            "id": "",
+            "date": "2022-12-09",
+            "stat": "interview",
+            "arhived": false
+        },        {
+            "id": "",
+            "date": "2022-12-09",
+            "stat": "interview",
+            "arhived": false
         }
+        
 
     ]
 }
