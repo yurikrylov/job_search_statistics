@@ -2,6 +2,8 @@ import "./App.css";
 import React from "react";
 import { PieChart, Pie, Cell, Legend } from "recharts";
 import Container from '@mui/material/Container';
+import Typography from '@mui/material/Typography';
+import Header from './Components/Header';
 import values from './data.json';
 
 const COLORS = ["#FF6464", "#2A0944", "#A10035", "#3FA796"];
@@ -51,16 +53,24 @@ const renderCustomizedLabel = ({
 };
 export default function App() {
   return (
+    
     <Container maxWidth="sm">
+      <Header></Header>
+ 
+      <Typography>Всего отправлено: {values.data.length}</Typography>
+      <Typography>Всего проигнорировано : {valuesObj.viewed+valuesObj.notViewed}</Typography>
+      <Typography>Всего отказов : {valuesObj.rejected}</Typography>
+      <Typography>Всего интервью : {valuesObj.interview}</Typography>
+      <Typography>Получено фидбеков после интервью: 2</Typography>
       <PieChart width={400} height={400}>
         <Legend />
         <Pie
           data={data}
-          cx={200}
-          cy={200}
+          cx={250}
+          cy={150}
           labelLine={false}
           label={renderCustomizedLabel}
-          outerRadius={80}
+          outerRadius={140}
           fill="#8884d8"
           dataKey="value"
         >
