@@ -216,28 +216,131 @@
             "stat": "notViewed",
             "arhived": false
         },
-                {
+        {
             "id": "",
             "date": "2022-12-09",
             "stat": "notViewed",
             "arhived": false
-        },        {
+        },
+        {
             "id": "",
             "date": "2022-12-08",
             "stat": "notViewed",
             "arhived": false
-        },        {
+        },
+        {
             "id": "",
             "date": "2022-12-09",
             "stat": "interview",
             "arhived": false
-        },        {
+        },
+        {
+            "id": "",
+            "date": "2022-12-09",
+            "stat": "viewed",
+            "arhived": false
+        },
+        {
             "id": "",
             "date": "2022-12-09",
             "stat": "interview",
+            "arhived": false
+        },
+        {
+            "id": "",
+            "date": "2022-12-10",
+            "stat": "viewed",
+            "arhived": false
+        },
+        {
+            "id": "",
+            "date": "2022-12-10",
+            "stat": "viewed",
+            "arhived": false
+        },
+        {
+            "id": "",
+            "date": "2022-12-10",
+            "stat": "viewed",
+            "arhived": false
+        },
+        {
+            "id": "",
+            "date": "2022-12-10",
+            "stat": "notViewed",
+            "arhived": false
+        },
+        {
+            "id": "",
+            "date": "2022-12-12",
+            "stat": "viewed",
+            "arhived": false
+        },
+        {
+            "id": "",
+            "date": "2022-12-12",
+            "stat": "rejected",
+            "arhived": false
+        },
+        {
+            "id": "",
+            "date": "2022-12-14",
+            "stat": "interview",
+            "arhived": false
+        },
+        {
+            "id": "",
+            "date": "2022-12-14",
+            "stat": "interview",
+            "arhived": false
+        },
+        {
+            "id": "",
+            "date": "2022-12-14",
+            "stat": "notViewed",
+            "arhived": false
+        },
+        {
+            "id": "",
+            "date": "2022-12-14",
+            "stat": "interview",
+            "arhived": false
+        },
+        {
+            "id": "",
+            "date": "2022-12-14",
+            "stat": "notViewed",
+            "arhived": false
+        },
+        {
+            "id": "",
+            "date": "2022-12-14",
+            "stat": "viewed",
+            "arhived": false
+        },
+        {
+            "id": "",
+            "date": "2022-12-14",
+            "stat": "notViewed",
+            "arhived": false
+        },
+        {
+            "id": "",
+            "date": "2022-12-14",
+            "stat": "viewed",
+            "arhived": false
+        },
+        {
+            "id": "",
+            "date": "2022-12-14",
+            "stat": "notViewed",
+            "arhived": false
+        },
+        {
+            "id": "",
+            "date": "2022-12-14",
+            "stat": "viewed",
             "arhived": false
         }
-        
-
     ]
 }
