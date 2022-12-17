@@ -212,18 +212,6 @@
         },
         {
             "id": "",
-            "date": "2022-12-09",
-            "stat": "notViewed",
-            "arhived": false
-        },
-        {
-            "id": "",
-            "date": "2022-12-09",
-            "stat": "notViewed",
-            "arhived": false
-        },
-        {
-            "id": "",
             "date": "2022-12-08",
             "stat": "notViewed",
             "arhived": false
@@ -231,7 +219,7 @@
         {
             "id": "",
             "date": "2022-12-09",
-            "stat": "interview",
+            "stat": "viewed",
             "arhived": false
         },
         {
