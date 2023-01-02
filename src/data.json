@@ -329,6 +329,72 @@
             "date": "2022-12-14",
             "stat": "viewed",
             "arhived": false
+        },
+        {
+            "id": "",
+            "date": "2022-12-17",
+            "stat": "viewed",
+            "arhived": false
+        },
+        {
+            "id": "",
+            "date": "2022-12-17",
+            "stat": "viewed",
+            "arhived": false
+        },
+        {
+            "id": "",
+            "date": "2022-12-19",
+            "stat": "viewed",
+            "arhived": false
+        },
+        {
+            "id": "",
+            "date": "2022-12-19",
+            "stat": "viewed",
+            "arhived": false
+        },
+        {
+            "id": "",
+            "date": "2022-12-19",
+            "stat": "viewed",
+            "arhived": false
+        },
+        {
+            "id": "",
+            "date": "2022-12-19",
+            "stat": "interview",
+            "arhived": false
+        },
+        {
+            "id": "",
+            "date": "2022-12-19",
+            "stat": "interview",
+            "arhived": false
+        },
+        {
+            "id": "",
+            "date": "2022-12-20",
+            "stat": "interview",
+            "arhived": false
+        },
+        {
+            "id": "",
+            "date": "2022-12-21",
+            "stat": "interview",
+            "arhived": false
+        },
+        {
+            "id": "",
+            "date": "2022-12-21",
+            "stat": "interview",
+            "arhived": false
+        },
+        {
+            "id": "",
+            "date": "2022-12-22",
+            "stat": "rejected",
+            "arhived": false
         }
     ]
 }

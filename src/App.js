@@ -53,10 +53,8 @@ const renderCustomizedLabel = ({
 };
 export default function App() {
   return (
-    
     <Container maxWidth="sm">
-      <Header></Header>
- 
+      <Header />
       <Typography>Всего отправлено: {values.data.length}</Typography>
       <Typography>Всего проигнорировано : {valuesObj.viewed+valuesObj.notViewed}</Typography>
       <Typography>Всего отказов : {valuesObj.rejected}</Typography>
